@@ -1,0 +1,37 @@
+/* Tag section */
+h3{
+  font-size: 17px;
+  color: hsl(218, 44%, 22%);
+  margin: 5%;
+}
+p{
+  color: hsl(220, 15%, 55%);
+  margin: 0 10px 0 10px;
+}
+body{
+  font-family: outfit;
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+/* Class Section */
+.qr-pic{
+  height: 225px;
+  width: 250px;
+  border-radius: 10%;
+  margin: 10% 9% -10% 8%;
+}
+.headline{
+  margin: 15% 10% 15% 5%;
+}
+.qr-section{
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  background-size: 100px;
+  border-radius: 10%;
+  margin: 5% 40% 3% 40%;
+}
+.attribution{
+  margin-left: 7%;
+}
